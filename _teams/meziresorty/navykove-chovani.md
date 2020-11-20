@@ -51,8 +51,8 @@ Nabízíme šanci odborníkům na problematiku návykového chování spolupraco
 Tým Návykové chování se schází podle potřeby (viz kalendář níže).
 Za přípravu agendy setkání zodpovídá Janka  Michailidu. Členové týmu jsou:
 
-- [Janka Michailidu](https://lide.pirati.cz/personProfile/152/), garant programového bodu Psychotropní látky Pirátské strany
-- [Michal Ketner](https://ustecky.pirati.cz/lide/michal-ketner/), zástupce garanta programového bodu Psychotropní látky Pirátské strany
+- [Janka Michailidu](https://lide.pirati.cz/personProfile/152/), vedoucí meziresortního týmu Návykové chování, PhD student biochemie a biotechnologie
+- [Michal Ketner](https://ustecky.pirati.cz/lide/michal-ketner/), zástupce vedoucího meziresortního týmu Návykové chování, white hat hacker
 - [Michaela Skokanová](https://lide.pirati.cz/personProfile/531/) sociální pracovnice, studentka adiktologie
 - [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), poslanec soustředící se na agendu prevence rizikového návykového chování
 - Ondřej Klíma, asistent poslance Tomáše Vymazala
